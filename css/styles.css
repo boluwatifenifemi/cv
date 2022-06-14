@@ -1,0 +1,52 @@
+/**************************************** Tag Selectors ***********************************/
+
+body {
+  background-color: #EFFFFD;
+}
+
+h1 {
+  color: #5E8B7E;
+}
+
+h2 {
+  color: #5E8B7E;
+}
+
+h3 {
+  color: #5E8B7E;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #DFEEEA;
+  border-width: 7px;
+}
+
+a:link {
+  color: #5E8B7E;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #5E8B7E;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #A7C4BC;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #A7C4BC;
+  text-decoration: underline;
+}
+
+/******************************************* Class Selectors **********************************/
+
+.profile {
+  border-radius: 15%
+}
+
+/******************************************** Id Selectors ************************************/
